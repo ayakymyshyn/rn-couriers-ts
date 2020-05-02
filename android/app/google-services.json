@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "355866201784",
+    "firebase_url": "https://gusto-f6338.firebaseio.com",
+    "project_id": "gusto-f6338",
+    "storage_bucket": "gusto-f6338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355866201784:android:ce0c689d769e6497a2ae4d",
+        "android_client_info": {
+          "package_name": "com.whitedigital.gusto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355866201784-k24bo8ptcl2ookjilgusa2k47n6po5f8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whitedigital.gusto",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "355866201784-78m0ntq2fn5efhkf18su8agiilucgkm0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whitedigital.gusto",
+            "certificate_hash": "f516ee074752b5f73e40fb4d27747db7a2da17ee"
+          }
+        },
+        {
+          "client_id": "355866201784-d2b5luf3i4h9skb850iccfirhgrvjfj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRIb5BWNYl7adV0d2_wSTM5ZS9Q-3qCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355866201784-d2b5luf3i4h9skb850iccfirhgrvjfj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355866201784-bmf2devokscuilutebh8f9kocjes7pgk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whitedigital.gusto",
+                "app_store_id": "1506197690"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355866201784:android:90c0a0074293648aa2ae4d",
+        "android_client_info": {
+          "package_name": "com.whitedigital.gusto_courier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355866201784-ue4blmo55g0lfvl1uhrcvnu7vlcvdfr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whitedigital.gusto_courier",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "355866201784-d2b5luf3i4h9skb850iccfirhgrvjfj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRIb5BWNYl7adV0d2_wSTM5ZS9Q-3qCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355866201784-d2b5luf3i4h9skb850iccfirhgrvjfj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355866201784-bmf2devokscuilutebh8f9kocjes7pgk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whitedigital.gusto",
+                "app_store_id": "1506197690"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
